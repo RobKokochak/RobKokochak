@@ -8,7 +8,9 @@ About Me:
 - Software Engineer Intern at Stellantis.
 - Currently studying Operating Systems, Computer Vision, and Animation.
 - Musician -> https://soundcloud.com/robkokochak
-- Check out my [resume](https://www.dropbox.com/s/bhfap74dfth2m19/Rob%20Kokochak%20Resume%202023%20v2.pdf?dl=0) for more details on my experience, projects, and technical skills.
+- Check out my [resume](https://www.dropbox.com/s/bhfap74dfth2m19/Rob%20Kokochak%20Resume%202023%20v2.pdf?dl=0) for more details on my experience, projects, technical skills, and how to get in touch with me.
+
+Feel free to browse through some of my featured projects below.
 
 <!--
 **RobKokochak/RobKokochak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
