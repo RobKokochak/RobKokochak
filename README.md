@@ -10,7 +10,7 @@ About Me:
 - Musician -> https://soundcloud.com/robkokochak
 - Check out my [resume](https://www.dropbox.com/s/bhfap74dfth2m19/Rob%20Kokochak%20Resume%202023%20v2.pdf?dl=0) for more details on my experience, projects, technical skills, and how to get in touch with me.
 
-Feel free to browse through some of my featured projects below.
+Check out some of my projects below, and thanks for visiting!
 
 <!--
 **RobKokochak/RobKokochak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
