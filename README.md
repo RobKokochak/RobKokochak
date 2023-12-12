@@ -4,7 +4,6 @@ I'm Rob, a developer from Ferndale MI.
 
 About Me:
 - Pursuing a B.S. in Computer Science at the University of Michigan-Dearborn, projected to graduate in December 2023. 
-- Software Engineer Intern at Stellantis.
 - Currently working on full stack web and SwiftUI projects.
 - Musician -> https://soundcloud.com/robkokochak
 - Check out my [resume](https://www.dropbox.com/scl/fi/frmgrlueyeiyxn4y5o1nv/Rob-Kokochak-Resume.pdf?rlkey=x2e24w6yodv922jv51n5ac1hd&dl=0) for more details on my experience, projects, technical skills, and how to get in touch with me.
