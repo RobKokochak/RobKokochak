@@ -1,7 +1,5 @@
 ### Welcome! 🌲
 
-I'm Rob, a developer from Ferndale MI.
-
 About Me:
 - Recently graduated with my B.S. in Computer Science from the University of Michigan-Dearborn. 
 - Currently working on full stack web and MacOS/iOS projects.
