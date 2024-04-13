@@ -3,9 +3,8 @@
 About Me:
 - Software Engineer at Ascent Cloud.
 - Currently working on full stack web and MacOS/iOS projects.
-- Musician -> https://soundcloud.com/robkokochak
 
-Feel free to check out my projects below. Thanks for visiting!
+Feel free to check out my projects below.
 
 <!--
 **RobKokochak/RobKokochak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
