@@ -1,7 +1,7 @@
 ### Welcome! 🌲
 
 About Me:
-- 💼 Full Stack Software Engineer at Ascent Cloud, working in React, Typescript, Node and Apex (Salesforce Java clone).
+- 💼 Full Stack Software Engineer at Ascent Cloud.
 - 🔭 Currently learning Go by building a CLI task management app.
 - 💬 Ask me about my SwiftUI metronome app.
 
