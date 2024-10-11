@@ -1,10 +1,11 @@
 ### Welcome! 🌲
 
 About Me:
-- Software Engineer at Ascent Cloud.
-- Currently working on full stack web and MacOS/iOS projects.
+- 💼 Full Stack Software Engineer at Ascent Cloud, working in React, Typescript, Node and Apex (Salesforce Java clone).
+- 🔭 Currently learning Go by building a CLI task management app.
+- 💬 Ask me about my SwiftUI metronome app.
 
-Feel free to check out my projects below.
+Feel free to check out more of my projects below.
 
 <!--
 **RobKokochak/RobKokochak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
